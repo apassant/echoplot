@@ -19,3 +19,7 @@ or
     from echoplot import EchoPlot
 
     EchoPlot('The Clash', 'London Calling').plot()
+
+Note that your EchoNest API key must be set as an environment variable: `ECHO_NEST_API_KEY`
+If you don't have a key, register at [developer.echonest.com](http://developer.echonest.com).
+
