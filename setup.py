@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='echoplot',
-    version='0.1.0',
+    version='0.1.1',
     author='Alexandre Passant',
     author_email='alex@passant.org',
     packages=['echoplot'],
